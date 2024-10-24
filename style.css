@@ -110,9 +110,10 @@ img {
 }
 
 footer {
-    font-size: 1.3em;
+    font-size: 1em;
     font-family: Arial, Helvetica, sans-serif;
-    background: #fff9dd;
+    background: #fc0e55;
+    color: #fff;
 }
 
 /*     FILTROS
